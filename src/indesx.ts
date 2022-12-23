@@ -139,3 +139,17 @@ type Draggable = {
     resize : () => {}
  }
 
+
+
+ // literal type
+
+
+// literal types they let you choose a literal figure / variable options
+
+type Quantity = 50 |30 ;
+
+// the variable hence can only  accept the initialization of the variable as 50 or 30 and no other value 
+// can also be the same for a string value
+let quantity :Quantity =  50
+
+

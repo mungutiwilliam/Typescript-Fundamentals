@@ -44,4 +44,5 @@ let textBox = {
     drag: () => { },
     resize: () => { }
 };
+let quantity = 50;
 //# sourceMappingURL=indesx.js.map
